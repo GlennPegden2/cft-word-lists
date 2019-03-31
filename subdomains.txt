@@ -1,0 +1,9 @@
+www
+www2
+admin
+intra
+intranet
+dev
+development
+staging
+test
