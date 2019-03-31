@@ -7,3 +7,5 @@ dev
 development
 staging
 test
+vpn
+
