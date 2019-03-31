@@ -8,4 +8,6 @@ development
 staging
 test
 vpn
+mail
+smtp
 
